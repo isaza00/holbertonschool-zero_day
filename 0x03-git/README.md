@@ -1,0 +1,1 @@
+This project is about git, git commands and the difference with github.
